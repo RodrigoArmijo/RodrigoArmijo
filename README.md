@@ -1,5 +1,7 @@
 # OUILookup: Herramienta para Consulta de Fabricantes de Direcciones MAC
 
+Este informe se ha de implementar una herramienta basada en línea de comandos para consultar el fabricante de una tarjeta de red dada su dirección MAC. La aplicación se llamará OUILookup y se desarrollará en Python. La base de datos a utilizar será cualquier API REST pública que permita obtener los fabricantes de tarjetas de red a partir de una MAC determinada.tiene como objetivo Implementar una herramienta basada en línea de comandos llamada "OUILookup" en Python.
+
 OUILookup es una herramienta de línea de comandos desarrollada en Python que permite consultar el fabricante de una tarjeta de red a partir de su dirección MAC, o bien, identificar los fabricantes de los dispositivos disponibles en la red local mediante la tabla ARP.
 
 ## Características
